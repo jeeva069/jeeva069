@@ -1,7 +1,3 @@
-```markdown
-<!-- (this comment is just to show you where the file starts — don't include it in your actual README.md) -->
-```
-
 <div align="center">
     
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jeeva%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Software%20Developer%20%7C%20ECE%20Student%20%7C%20Java%20and%20Python%20Enthusiast&descAlignY=62&descSize=16)

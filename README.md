@@ -71,7 +71,7 @@ public class Jeeva {
 
 <br>
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <div align="center">
 

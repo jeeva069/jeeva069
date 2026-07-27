@@ -3,8 +3,6 @@
 ```
 
 <div align="center">
-
-![Header](https://capsule-render.vercel.app/api?
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jeeva%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Software%20Developer%20%7C%20ECE%20Student%20%7C%20Java%20and%20Python%20Enthusiast&descAlignY=62&descSize=16)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Aspiring+Software+Developer+%F0%9F%92%BB;Java+%7C+Python+%7C+SQL+Enthusiast;ECE+Student+%40+VSB+Engineering+College;Turning+Ideas+Into+Code+%F0%9F%9A%80)](https://git.io/typing-svg)
